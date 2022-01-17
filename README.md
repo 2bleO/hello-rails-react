@@ -1,7 +1,5 @@
  Hello Rails React
-> This is a React-Rails app that displays the random greeting using API. 
-## Screenshot
-![screenshot](screenshot.png)
+> This is a React-Rails app that displays the random greeting using API.
 
 # Built With
 

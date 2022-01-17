@@ -13,7 +13,7 @@ const Greeting = () => {
   return (
     <React.Fragment>
       <div>
-        <h1>Greeting of the day</h1>
+        <h1>Greeting of the day:</h1>
         <p> {message}</p>
       </div>
     </React.Fragment>
